@@ -1,0 +1,30 @@
+{
+    "C=0.001": {
+        "Mean Accuracy": "0.1188",
+        "other ratio": "+/-0.0022"
+    },
+    "C=0.01": {
+        "Mean Accuracy": "0.1756",
+        "other ratio": "+/-0.0053"
+    },
+    "C=0.1": {
+        "Mean Accuracy": "0.4737",
+        "other ratio": "+/-0.0140"
+    },
+    "C=1": {
+        "Mean Accuracy": "0.8965",
+        "other ratio": "+/-0.0085"
+    },
+    "C=10": {
+        "Mean Accuracy": "0.9518",
+        "other ratio": "+/-0.0047"
+    },
+    "C=100": {
+        "Mean Accuracy": "0.9561",
+        "other ratio": "+/-0.0053"
+    },
+    "C=1000": {
+        "Mean Accuracy": "0.9561",
+        "other ratio": "+/-0.0053"
+    }
+}

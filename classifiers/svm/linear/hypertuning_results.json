@@ -1,0 +1,42 @@
+{
+    "C=0.001": {
+        "Mean Accuracy": "0.9239",
+        "other ratio": "+/-0.0093"
+    },
+    "C=0.004": {
+        "Mean Accuracy": "0.9274",
+        "other ratio": "+/-0.0091"
+    },
+    "C=0.005": {
+        "Mean Accuracy": "0.9283",
+        "other ratio": "+/-0.0098"
+    },
+    "C=0.01": {
+        "Mean Accuracy": "0.9271",
+        "other ratio": "+/-0.0097"
+    },
+    "C=0.02": {
+        "Mean Accuracy": "0.9238",
+        "other ratio": "+/-0.0095"
+    },
+    "C=0.015": {
+        "Mean Accuracy": "0.9258",
+        "other ratio": "+/-0.0090"
+    },
+    "C=0.05": {
+        "Mean Accuracy": "0.9181",
+        "other ratio": "+/-0.0099"
+    },
+    "C=0.1": {
+        "Mean Accuracy": "0.9163",
+        "other ratio": "+/-0.0132"
+    },
+    "C=1": {
+        "Mean Accuracy": "0.9120",
+        "other ratio": "+/-0.0117"
+    },
+    "C=10": {
+        "Mean Accuracy": "0.9120",
+        "other ratio": "+/-0.0117"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Total Time Elapsed (seconds)": 1901.6154494285583,
+    "Fold1": {
+        "Accuracy": 0.10171428571428572,
+        "Time Consumed": 195.64178204536438
+    },
+    "Fold2": {
+        "Accuracy": 0.09828571428571428,
+        "Time Consumed": 193.95948004722595
+    },
+    "Fold3": {
+        "Accuracy": 0.10571428571428572,
+        "Time Consumed": 186.52263760566711
+    },
+    "Fold4": {
+        "Accuracy": 0.09985714285714285,
+        "Time Consumed": 186.46646070480347
+    },
+    "Fold5": {
+        "Accuracy": 0.09342857142857143,
+        "Time Consumed": 186.75042843818665
+    },
+    "Fold6": {
+        "Accuracy": 0.10128571428571428,
+        "Time Consumed": 187.88845443725586
+    },
+    "Fold7": {
+        "Accuracy": 0.09142857142857143,
+        "Time Consumed": 188.09179711341858
+    },
+    "Fold8": {
+        "Accuracy": 0.09514285714285714,
+        "Time Consumed": 190.82481741905212
+    },
+    "Fold9": {
+        "Accuracy": 0.09571428571428571,
+        "Time Consumed": 189.3834376335144
+    },
+    "Fold10": {
+        "Accuracy": 0.10357142857142858,
+        "Time Consumed": 189.7360017299652
+    },
+    "Mean Accuracies": 0.09861428571428572,
+    "Standard Deviation": 0.004385993476455502
+}

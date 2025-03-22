@@ -1,0 +1,6 @@
+{
+    "Best Parameters": {
+        "svc__C": 0.005
+    },
+    "Best Cross-Validation Accuracy": 0.9283000000000001
+}
